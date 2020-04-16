@@ -1,0 +1,67 @@
+Pedido: 
+Nombre: Jorge
+Dirección: diireccion
+Pizzas Jamon y Queso: 123456
+Pizzas Napolitana: 52
+Pizzas Napolitana: 20
+------------------------------
+Pedido: 
+Nombre: Jorge
+Dirección: diireccion
+Pizzas Jamon y Queso: 123456
+Pizzas Napolitana: 52
+Pizzas Napolitana: 20
+------------------------------
+Pedido: 
+Nombre: Jorge
+Dirección: diireccion
+Pizzas Jamon y Queso: 123456
+Pizzas Napolitana: 52
+Pizzas Napolitana: 20
+------------------------------
+Pedido: 
+Nombre: Jorge
+Dirección: diireccion
+Pizzas Jamon y Queso: 123456
+Pizzas Napolitana: 52
+Pizzas Napolitana: 20
+------------------------------
+Pedido: 
+Nombre: Jorge
+Dirección: diireccion
+Pizzas Jamon y Queso: 123456
+Pizzas Napolitana: 52
+Pizzas Napolitana: 20
+------------------------------
+Pedido: 
+Nombre: Jorge
+Dirección: diireccion
+Pizzas Jamon y Queso: 123456
+Pizzas Napolitana: 52
+Pizzas Napolitana: 20
+------------------------------
+Pedido: 
+Nombre: Baruc
+Dirección: Aragon
+Pizzas Jamon y Queso: 2
+Pizzas Napolitana: 3
+------------------------------
+Pedido: 
+Nombre: Lalo
+Dirección: Balbuena
+Pizzas Jamon y Queso: 3
+Pizzas Napolitana: 3
+Pizzas Napolitana: 4
+------------------------------
+Pedido: 
+Nombre: Saul
+Dirección: Coyoacan
+Pizzas Napolitana: 5
+------------------------------
+Pedido: 
+Nombre: Jorge
+Dirección: Calle #1 Col. Acatlan
+Pizzas Jamon y Queso: 2
+Pizzas Napolitana: 3
+Pizzas Napolitana: 1
+------------------------------
